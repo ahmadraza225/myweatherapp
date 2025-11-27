@@ -16,7 +16,7 @@ A Flutter mobile weather application that fetches and displays weather data from
 - **OpenWeatherMap API** (Free tier)
   - Current Weather Data API
   - 5-Day/3-Hour Forecast API
-  - API Key: `665b4046c9fae75b33950e9d22418c2e`
+  - API Key: `create your own`
 
 ## Project Structure
 
@@ -54,13 +54,6 @@ lib/
 4. View current weather and 3-day forecast
 5. The app will remember your last searched city
 
-## Screenshots
-
-(Screenshots should be added here showing:)
-- Main screen with current weather
-- 3-day forecast display
-- Error screen (city not found)
-- Error screen (no internet connection)
 
 ## Error States
 
@@ -84,3 +77,6 @@ Built as a mobile weather application project demonstrating:
 - Error handling
 - Local data persistence
 - Mobile-first UI design
+
+
+
